@@ -18,7 +18,7 @@ simplefilter(action='ignore', category=FutureWarning)
 simplefilter(action='ignore', category=FutureWarning)
 from model import FBMAD
 
-data = pd.read_csv("./finaldataset/sampled_darknet.csv").values
+data = pd.read_csv("finaldataset/sampled_darknet.csv").values
 datax = data[:, 1:]
 datay = data[:, 0]
 random_state = 7
