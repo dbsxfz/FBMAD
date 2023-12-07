@@ -1,7 +1,9 @@
 # FBMAD
 
 ### Introduction
-Code for the article 'A Function-aware Mimic Defense Theory and its Practice' accepted by CHINA COMMUNICATIONS
+Code for the article 'A Function-aware Mimic Defense Theory and its Practice' accepted by CHINA COMMUNICATIONS.
+
+http://www.cic-chinacommunications.cn/EN/10.23919/JCC.ja.2022-0842
 
 ### Libraries Used
 The following libraries were used in our code:
